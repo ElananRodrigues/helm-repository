@@ -3,6 +3,19 @@ entries:
   helm-app:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2024-04-06T02:16:19.763402885Z"
+    description: A Helm chart for deploying the helm-app on Kubernetes.
+    digest: 816e67302eb6301a222f19a36544c633c6af9c75cf1cf5fa3e5bfbe286fd2627
+    home: https://github.com/ElananRodrigues/helm-app
+    name: helm-app
+    sources:
+    - https://github.com/ElananRodrigues/helm-app
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/ElananRodrigues/helm-store/production/helm/helm-app-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2024-03-06T17:23:51.158755512Z"
     description: A Helm chart for deploying the helm-app on Kubernetes.
     digest: 5d77d4befc30ac594e23bee6e2ae7b947e76fc823d4323f65182cdb8297896a0
@@ -27,4 +40,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/ElananRodrigues/helm-store/production/helm/helm-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-03-06T17:23:51.15815937Z"
+generated: "2024-04-06T02:16:19.762816371Z"
