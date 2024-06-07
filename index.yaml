@@ -3,6 +3,19 @@ entries:
   backstage:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2024-06-07T22:47:32.842228755Z"
+    description: A Helm chart for deploying the backstage on Kubernetes.
+    digest: 0f6c94267b0f272b2cffde8f6fa620edb0565c9d4925b634223577ca7122bb2b
+    home: https://github.com/ElananRodrigues/backstage
+    name: backstage
+    sources:
+    - https://github.com/ElananRodrigues/backstage
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/ElananRodrigues/helm-store/production/helm/backstage-0.1.10.tgz
+    version: 0.1.10
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2024-06-07T22:24:33.874302219Z"
     description: A Helm chart for deploying the backstage on Kubernetes.
     digest: 029442b326ec590b96ad71e9978b1a8ad2e1de23c66b18306a823c730cc187aa
@@ -158,4 +171,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/ElananRodrigues/helm-store/production/helm/helm-app-0.1.2.tgz
     version: 0.1.2
-generated: "2024-06-07T22:24:33.873691677Z"
+generated: "2024-06-07T22:47:32.841517236Z"
